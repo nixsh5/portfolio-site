@@ -48,21 +48,23 @@ src/
 git clone https://github.com/nixsh5/portfolio-site.git
 cd portfolio-site
 
-text
+
 
 2. **Install dependencies:**
 npm install
 
-text
+
 
 3. **Start the development server:**
 npm run dev
 
-text
+
 
 4. **Customize your content:**
 - Update your skills, projects, and about info in the respective components.
 - Replace images and icons as needed.
+
+
 
 5. **Deploy:**  
 Deploy to [Vercel](https://vercel.com/), [Netlify](https://netlify.com/), or your favorite host.
