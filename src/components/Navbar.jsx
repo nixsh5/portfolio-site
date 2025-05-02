@@ -59,7 +59,7 @@ function Navbar({ onContactClick }) {
                         CONTACT
                     </button>
                     <a
-                        href="https://drive.google.com/file/d/1G-WjNgac0du-GprrliK_-9xLmBf62zNk/view?usp=sharing"
+                        href="https://drive.google.com/file/d/16oZ-t4F05gsr_Ut3OwL2_HCJXtvKql8U/view?usp=sharing"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="bg-[#38FFB3] px-4 py-1 text-xs font-semibold text-[#0B1512] rounded hover:bg-[#38FFB3]/90 transition"
